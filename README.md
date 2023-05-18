@@ -5,7 +5,7 @@
 ![sanidid](./sanidid.jpg )
 
 
-The idea from this track came from a so called "AI hallucination". These large visual models are never taught to understand or reproduce text or grammar, however, they have been shown to develop latent grammatical and semantical structures. On one of my experimentations with [stability.ai's dreamstudio](https://beta.dreamstudio.ai/), I stumbled across the letters *sanidid* written on a wall. When I returned those images to the network as a prompt, I got the image above.
+The idea from this track came from a so called "AI hallucination". These large visual models are never taught to understand or reproduce text or grammar, however, they have been shown to develop latent grammatical and semantical structures. On one of my experimentations with [stability.ai's dreamstudio](https://beta.dreamstudio.ai/), I stumbled across the letters *sanidid* written on a wall. When I returned those letters to the network as the text prompt, I got the image above.
 
 
 In the [track](https://postcarboncollective.bandcamp.com/track/sanidid-qdrone-v07) and respective [music video](https://youtu.be/8sNWhb8dZ4E), I explored the latent spaces between the several iterarions of this *sanidid*.
